@@ -16,7 +16,7 @@ ReactDOM.render(
             <App/>
         </BrowserRouter>
     </Provider>
-, document.getElementById('head'));
+, document.getElementById('form'));
 
 
 serviceWorker.unregister();

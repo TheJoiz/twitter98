@@ -30,6 +30,7 @@ class App extends Component {
     render() {
         return (
             <Register/>
+
             /*<div className="App">
                 <Header toggle={this.showedToggle} />
                 {this.state.showed && <Messages />}
